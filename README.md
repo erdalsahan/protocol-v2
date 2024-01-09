@@ -2,7 +2,7 @@
 [![Build pass](https://github.com/AAVE/protocol-v2/actions/workflows/node.js.yml/badge.svg)](https://github.com/aave/protocol-v2/actions/workflows/node.js.yml)
 ```
         .///.                .///.     //.            .//  `/////////////-
-       `++:++`              .++:++`    :++`          `++:  `++:......---.`
+       `++:++`              .++:++`    :++`          `++:  `++:......---.` 
       `/+: -+/`            `++- :+/`    /+/         `/+/   `++.
       /+/   :+/            /+:   /+/    `/+/        /+/`   `++.
   -::/++::`  /+:       -::/++::` `/+:    `++:      :++`    `++/:::::::::.
